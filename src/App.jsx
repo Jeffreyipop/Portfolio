@@ -1,5 +1,5 @@
 // React import removed as it's not needed in modern React
-import Navbar from "./sections/navbar";
+import Navbar from "./sections/Navbar";
 import Hero from "./sections/Hero";
 import About from "./sections/About";
 import Projects from "./sections/Projects";
